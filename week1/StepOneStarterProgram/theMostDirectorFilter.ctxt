@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=theMostDirectorFilter
+comment1.params=movie
+comment1.target=theMostDirectorFilter(java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.HashMap\ getMap()
+numComments=3
