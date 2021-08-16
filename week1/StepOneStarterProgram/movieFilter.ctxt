@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=movieFilter
-comment1.params=ID
-comment1.target=movieFilter(java.lang.String)
-comment2.params=rater
-comment2.target=boolean\ satisfies(Rater)
-numComments=3
